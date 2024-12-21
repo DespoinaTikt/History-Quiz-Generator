@@ -1,6 +1,6 @@
 # History-Quiz-Generator
 
-This project allows users to generate multiple-choice questions based on a specific topic (e.g., History) and difficulty level (Easy, Medium, or Hard). The questions are generated using OpenAI's GPT-3.5 model and displayed in a Streamlit app. Users can answer the questions, submit their responses, and view their score. **To use this app, you will need an OpenAI API key. The app relies on OpenAI’s API to generate the quiz questions.**
+This project allows users to generate multiple-choice questions based on a specific topic (in this case History) and difficulty level (Easy, Medium, or Hard). The questions are generated using OpenAI's GPT-3.5 model and displayed in a Streamlit app. Users can choose the difficulty level, answer the questions, submit their responses, and view their score. **To use this app, you will need an OpenAI API key. The app relies on OpenAI’s API to generate the quiz questions.**
 
 ## Features
 - Generates multiple-choice questions on a specified topic (fixed to **History** for this version).
